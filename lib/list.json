@@ -1,0 +1,108 @@
+{
+  "1": {
+    "type":"Backhoe Loader",
+    "make":{
+      "JCB" : [
+        "JCB-3CX",
+        "JCB-3DX"
+      ],
+      "CAT" : [
+        "CAT-428"
+      ]
+    }
+  },
+  "2": {
+    "type":"Crawler Excavator",
+    "make":{
+      "Kobelco" : [
+        "Kobelco-SK35",
+        "Kobelco-SK40",
+        "Kobelco-SK70",
+        "Kobelco-SK75",
+        "Kobelco-SK120",
+        "Kobelco-SK125",
+        "Kobelco-SK135",
+        "Kobelco-SK175",
+        "Kobelco-SK200"
+      ],
+      "Doosan" : [
+        "CAT-428"
+      ],
+      "Komatsu" : [
+        "CAT-428"
+      ],
+      "Catepiller" : [
+        "CAT-428"
+      ],
+      "JCB" : [
+        "CAT-428"
+      ],
+      "Link belt" : [
+        "CAT-428"
+      ]
+    }
+  }
+}
+modalList =[
+  "JCB-3CX",
+  "JCB-3DX",
+  "CAT-428",
+  "Kobelco-SK35",
+  "Kobelco-SK40",
+  "Kobelco-SK70",
+  "Kobelco-SK75",
+  "Kobelco-SK120",
+  "Kobelco-SK125",
+  "Kobelco-SK135",
+  "Kobelco-SK175",
+  "Kobelco-SK200",
+  "Kobelco-SK225",
+  "Doosan-DX55",
+  "Doosan-DX75",
+  "Doosan-DX80",
+  "Doosan-DX140",
+  "Doosan-DX210",
+  "Doosan-DX225",
+  "Komatsu-PC 70",
+  "Komatsu-PC200",
+  "Catepiller-312D",
+  "Catepiller-53D",
+  "Catepiller-320D",
+  "JCB-JS140",
+  "Link belt-2800B",
+  "Catepiller-D155",
+  "Catepiller-D4",
+  "Catepiller-D5",
+  "Catepiller-D6",
+  "Catepiller-D7",
+  "Catepiller-D8",
+  "Komatsu-D4",
+  "Komatsu-D5",
+  "Komatsu-D6",
+  "Komatsu-D7",
+  "Komatsu-D8",
+  "Mitsubishi-MG330",
+  "Mitsubishi-MG230",
+  "Komatsu-GD511",
+  "Hamm-HD70",
+  "Sakai-SV512",
+  "Vibromax-VM186",
+  "Bommag-BW219",
+  "Bommag-BW211",
+  "CAT-CS533",
+  "JCB-436",
+  "Catepiller-936",
+  "Komatsu-WA120",
+  "Komatsu-WA180",
+  "Kobelco-LK150",
+  "Tafe-45DI",
+  "Mahendra-475DI",
+  "Mahendra-575DI",
+  "Mahendra-275DI",
+  "Massey ferguson-MF135",
+  "Massey ferguson-MF240",
+  "Massey ferguson-MF250",
+  "Massey ferguson-350DI",
+  "Berky-6450",
+  "Berky-6925"
+]

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50786219636",
+    "project_id": "vehiclemanagmentsystem-ab0a4",
+    "storage_bucket": "vehiclemanagmentsystem-ab0a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50786219636:android:498f710af307c70566c321",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_managment_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50786219636-4oemgs9obtdr8nhl8lgd8k7odsk84n1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo3irGoQA-sQMAupys5kC1MXKjdIwfGDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50786219636-4oemgs9obtdr8nhl8lgd8k7odsk84n1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

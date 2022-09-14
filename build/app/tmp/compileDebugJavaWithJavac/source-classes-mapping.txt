@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/vehicle_managment_system/MainActivity.java
+ com.example.vehicle_managment_system.MainActivity
+com/example/vehicle_managment_system/BuildConfig.java
+ com.example.vehicle_managment_system.BuildConfig
