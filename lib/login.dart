@@ -4,6 +4,8 @@ import 'package:vehicle_managment_system/dashboard.dart';
 import 'main.dart';
 import 'addVehicle.dart';
 
+// this is login page
+
 class LoginPage extends StatefulWidget {
   const LoginPage({Key? key}) : super(key: key);
   @override
